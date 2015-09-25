@@ -1,0 +1,1 @@
+if(isset($_POST['hexnumber'])){echo $_POST['hexnumber'];};?>
